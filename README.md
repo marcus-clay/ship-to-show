@@ -15,13 +15,13 @@ From a working prototype (React, Vue, HTML, exported Figma), Ship to Show produc
 
 ## The 7 phases
 
-1. **CADRER** (15 min) : Identify sector, users, problem, design hypothesis
-2. **STRUCTURER** (10 min) : Make the prototype runnable locally
-3. **ENRICHIR** (30-45 min) : Add missing user flows for 5 demo videos
-4. **FILMER** (30 min) : Produce videos via Puppeteer + FFmpeg
-5. **RACONTER** (20 min) : Write the case study with narrative structure and video captions
-6. **EMPAQUETER** (15 min) : GitHub, Vercel, self-contained integration file
-7. **PUBLIER** (variable) : Integrate into the portfolio site
+1. **FRAME** (15 min) : Identify sector, users, problem, design hypothesis
+2. **STRUCTURE** (10 min) : Make the prototype runnable locally
+3. **ENRICH** (30-45 min) : Add missing user flows for 5 demo videos
+4. **RECORD** (30 min) : Produce videos via Puppeteer + FFmpeg
+5. **NARRATE** (20 min) : Write the case study with narrative structure and video captions
+6. **PACKAGE** (15 min) : GitHub, Vercel, self-contained integration file
+7. **PUBLISH** (variable) : Integrate into the portfolio site
 
 Total: approximately 2h30 for a complete published case study.
 
