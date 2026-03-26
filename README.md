@@ -7,7 +7,7 @@ A Claude Code skill that transforms prototypes into portfolio case studies with 
 From a working prototype (React, Vue, HTML, exported Figma), Ship to Show produces:
 
 - A bilingual case study (FR/EN) with narrative structure
-- 5 to 8 animated videos (Late Checkout Agency style: autoplay, loop, dark background)
+- 5 to 8 animated videos
 - Retina screenshots of the prototype
 - A prototype deployed on Vercel (public URL)
 - A GitHub repository
